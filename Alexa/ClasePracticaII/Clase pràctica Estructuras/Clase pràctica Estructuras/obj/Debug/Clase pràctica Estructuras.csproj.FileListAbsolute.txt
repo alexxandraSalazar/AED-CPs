@@ -1,0 +1,20 @@
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\bin\Debug\Clase pràctica Estructuras.exe.config
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\bin\Debug\Clase pràctica Estructuras.exe
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\bin\Debug\Clase pràctica Estructuras.pdb
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.csproj.AssemblyReference.cache
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase_pràctica_Estructuras.Form1.resources
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase_pràctica_Estructuras.Properties.Resources.resources
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.csproj.GenerateResource.cache
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.exe
+C:\Users\ROBOTICA\Desktop\ClasePractica\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.pdb
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\bin\Debug\Clase pràctica Estructuras.exe.config
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\bin\Debug\Clase pràctica Estructuras.exe
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\bin\Debug\Clase pràctica Estructuras.pdb
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase_pràctica_Estructuras.Form1.resources
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase_pràctica_Estructuras.Properties.Resources.resources
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.exe
+C:\Users\alexa\source\repos\AED\ClasePracticaII\Clase pràctica Estructuras\Clase pràctica Estructuras\obj\Debug\Clase pràctica Estructuras.pdb

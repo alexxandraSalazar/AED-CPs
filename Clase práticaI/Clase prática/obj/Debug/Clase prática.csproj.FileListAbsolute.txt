@@ -1,0 +1,20 @@
+C:\Users\alexa\source\repos\Clase prática\Clase prática\obj\Debug\Clase prática.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Clase prática\Clase prática\obj\Debug\Clase_prática.Form1.resources
+C:\Users\alexa\source\repos\Clase prática\Clase prática\obj\Debug\Clase_prática.Properties.Resources.resources
+C:\Users\alexa\source\repos\Clase prática\Clase prática\obj\Debug\Clase prática.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Clase prática\Clase prática\obj\Debug\Clase prática.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Clase prática\Clase prática\bin\Debug\Clase prática.exe.config
+C:\Users\alexa\source\repos\Clase prática\Clase prática\bin\Debug\Clase prática.exe
+C:\Users\alexa\source\repos\Clase prática\Clase prática\bin\Debug\Clase prática.pdb
+C:\Users\alexa\source\repos\Clase prática\Clase prática\obj\Debug\Clase prática.exe
+C:\Users\alexa\source\repos\Clase prática\Clase prática\obj\Debug\Clase prática.pdb
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\bin\Debug\Clase prática.exe.config
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\bin\Debug\Clase prática.exe
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\bin\Debug\Clase prática.pdb
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\obj\Debug\Clase prática.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\obj\Debug\Clase_prática.Form1.resources
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\obj\Debug\Clase_prática.Properties.Resources.resources
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\obj\Debug\Clase prática.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\obj\Debug\Clase prática.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\obj\Debug\Clase prática.exe
+C:\Users\alexa\source\repos\AED\Clase prática\Clase prática\obj\Debug\Clase prática.pdb

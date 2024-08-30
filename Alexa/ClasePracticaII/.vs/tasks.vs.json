@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Form1.Designer",
+      "appliesTo": "Clase pr\u00E0ctica Estructuras/Clase pr\u00E0ctica Estructuras/Form1.Designer.cs",
+      "type": "launch"
+    }
+  ]
+}

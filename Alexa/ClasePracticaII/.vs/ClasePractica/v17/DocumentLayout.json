@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\Documents\\alexandra\\alexandra\\ClasePractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexa\\OneDrive\\Desktop\\Documents\\alexandra\\alexandra\\ClasePractica\\Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexa\\OneDrive\\Desktop\\Documents\\alexandra\\alexandra\\ClasePractica\\Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Desktop\\Documents\\alexandra\\alexandra\\ClasePractica\\Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Program.cs",
+              "RelativeDocumentMoniker": "Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Desktop\\Documents\\alexandra\\alexandra\\ClasePractica\\Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Program.cs",
+              "RelativeToolTip": "Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:53:00.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Desktop\\Documents\\alexandra\\alexandra\\ClasePractica\\Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Form1.cs",
+              "RelativeDocumentMoniker": "Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Desktop\\Documents\\alexandra\\alexandra\\ClasePractica\\Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Form1.cs",
+              "RelativeToolTip": "Clase pr\u00E0ctica Estructuras\\Clase pr\u00E0ctica Estructuras\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:52:42.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
