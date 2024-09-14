@@ -1,0 +1,16 @@
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\CPVI.Form1.resources
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\CPVI.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\CPVI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\CPVI.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\CPVI.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\CPVI.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\bin\Debug\net8.0-windows\CPVI.exe
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\bin\Debug\net8.0-windows\CPVI.deps.json
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\bin\Debug\net8.0-windows\CPVI.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\bin\Debug\net8.0-windows\CPVI.dll
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\bin\Debug\net8.0-windows\CPVI.pdb
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\CPVI.dll
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\refint\CPVI.dll
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\CPVI.pdb
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\CPVI.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\CPVI\CPVI\obj\Debug\net8.0-windows\ref\CPVI.dll

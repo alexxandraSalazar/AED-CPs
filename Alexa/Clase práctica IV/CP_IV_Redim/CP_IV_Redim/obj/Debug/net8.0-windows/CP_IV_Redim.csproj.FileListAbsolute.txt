@@ -1,0 +1,50 @@
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.exe
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.deps.json
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.runtimeconfig.json
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.dll
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.pdb
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.Form1.resources
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.csproj.GenerateResource.cache
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.AssemblyInfoInputs.cache
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.AssemblyInfo.cs
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.csproj.CoreCompileInputs.cache
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.sourcelink.json
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.dll
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\refint\CP_IV_Redim.dll
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.pdb
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.genruntimeconfig.cache
+C:\Users\kiana\source\repos\AED\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\ref\CP_IV_Redim.dll
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.exe
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.deps.json
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.dll
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.pdb
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.Form1.resources
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.dll
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\refint\CP_IV_Redim.dll
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.pdb
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\CP_IV_Redim\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\ref\CP_IV_Redim.dll
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.exe
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.deps.json
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.runtimeconfig.json
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.dll
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\bin\Debug\net8.0-windows\CP_IV_Redim.pdb
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.Form1.resources
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.AssemblyInfo.cs
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.sourcelink.json
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.dll
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\refint\CP_IV_Redim.dll
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.pdb
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\CP_IV_Redim.genruntimeconfig.cache
+C:\Users\alexa\source\repos\AED\Alexa\Clase prácticaIV\CP_IV_Redim\CP_IV_Redim\obj\Debug\net8.0-windows\ref\CP_IV_Redim.dll

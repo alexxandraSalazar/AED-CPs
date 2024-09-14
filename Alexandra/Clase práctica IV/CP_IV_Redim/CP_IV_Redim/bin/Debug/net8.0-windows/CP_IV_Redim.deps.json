@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CP_IV_Redim/1.0.0": {
+        "runtime": {
+          "CP_IV_Redim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CP_IV_Redim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
