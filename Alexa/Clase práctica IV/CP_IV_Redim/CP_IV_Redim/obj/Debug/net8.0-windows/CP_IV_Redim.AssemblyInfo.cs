@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CP_IV_Redim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+126646142daec0c52abbd49b17055a11c5d580ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39877c73304a5892b136c5f36bcb6db7222e70b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CP_IV_Redim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CP_IV_Redim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

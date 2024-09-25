@@ -1,0 +1,30 @@
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\bin\Debug\CP_Pilas.exe.config
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\bin\Debug\CP_Pilas.exe
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\bin\Debug\CP_Pilas.pdb
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.csproj.AssemblyReference.cache
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.Form1.resources
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.Properties.Resources.resources
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.csproj.GenerateResource.cache
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.csproj.CoreCompileInputs.cache
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.exe
+C:\Users\kiana\source\repos\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.pdb
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\bin\Debug\CP_Pilas.exe.config
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\bin\Debug\CP_Pilas.exe
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\bin\Debug\CP_Pilas.pdb
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.Form1.resources
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.exe
+C:\Users\alexa\OneDrive\Desktop\CP VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.pdb
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\bin\Debug\CP_Pilas.exe.config
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\bin\Debug\CP_Pilas.exe
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\bin\Debug\CP_Pilas.pdb
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.Form1.resources
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.Properties.Resources.resources
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.exe
+C:\Users\alexa\source\repos\AED-CPs\Alexandra\Clase práctica VII\CP_Pilas\CP_Pilas\obj\Debug\CP_Pilas.pdb
