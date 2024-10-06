@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CPVI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+126646142daec0c52abbd49b17055a11c5d580ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de8f600e8fc1a835a932cd9bdd31f6ee2357efc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CPVI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CPVI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

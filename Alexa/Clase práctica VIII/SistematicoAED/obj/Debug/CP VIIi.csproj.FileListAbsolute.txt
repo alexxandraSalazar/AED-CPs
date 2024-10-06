@@ -1,0 +1,10 @@
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\bin\Debug\SistematicoAED.exe.config
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\bin\Debug\SistematicoAED.exe
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\bin\Debug\SistematicoAED.pdb
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\obj\Debug\CP VIIi.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\obj\Debug\SistematicoAED.Form1.resources
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\obj\Debug\SistematicoAED.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\obj\Debug\CP VIIi.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\obj\Debug\CP VIIi.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\obj\Debug\SistematicoAED.exe
+C:\Users\alexa\OneDrive\Desktop\CP VIII\CP VIII\SistematicoAED\obj\Debug\SistematicoAED.pdb

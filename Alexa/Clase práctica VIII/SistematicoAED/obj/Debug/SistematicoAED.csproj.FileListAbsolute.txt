@@ -1,0 +1,10 @@
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\bin\Debug\SistematicoAED.exe.config
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\bin\Debug\SistematicoAED.exe
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\bin\Debug\SistematicoAED.pdb
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\obj\Debug\SistematicoAED.csproj.AssemblyReference.cache
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\obj\Debug\SistematicoAED.Form1.resources
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\obj\Debug\SistematicoAED.Properties.Resources.resources
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\obj\Debug\SistematicoAED.csproj.GenerateResource.cache
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\obj\Debug\SistematicoAED.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\obj\Debug\SistematicoAED.exe
+C:\Users\DELL 5590\Documents\AED\SistematicoAED\SistematicoAED\obj\Debug\SistematicoAED.pdb
