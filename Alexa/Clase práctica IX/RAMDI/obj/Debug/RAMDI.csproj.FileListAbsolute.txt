@@ -1,0 +1,24 @@
+C:\Users\alexa\source\repos\RAMDI\RAMDI\obj\Debug\RAMDI.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\RAMDI\RAMDI\obj\Debug\RAMDI.Form1.resources
+C:\Users\alexa\source\repos\RAMDI\RAMDI\obj\Debug\RAMDI.frmPago.resources
+C:\Users\alexa\source\repos\RAMDI\RAMDI\obj\Debug\RAMDI.frmServicios.resources
+C:\Users\alexa\source\repos\RAMDI\RAMDI\obj\Debug\RAMDI.Properties.Resources.resources
+C:\Users\alexa\source\repos\RAMDI\RAMDI\obj\Debug\RAMDI.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\RAMDI\RAMDI\obj\Debug\RAMDI.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\RAMDI\RAMDI\bin\Debug\RAMDI.exe.config
+C:\Users\alexa\source\repos\RAMDI\RAMDI\bin\Debug\RAMDI.exe
+C:\Users\alexa\source\repos\RAMDI\RAMDI\bin\Debug\RAMDI.pdb
+C:\Users\alexa\source\repos\RAMDI\RAMDI\obj\Debug\RAMDI.exe
+C:\Users\alexa\source\repos\RAMDI\RAMDI\obj\Debug\RAMDI.pdb
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\bin\Debug\RAMDI.exe.config
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\bin\Debug\RAMDI.exe
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\bin\Debug\RAMDI.pdb
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\obj\Debug\RAMDI.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\obj\Debug\RAMDI.Form1.resources
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\obj\Debug\RAMDI.frmPago.resources
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\obj\Debug\RAMDI.frmServicios.resources
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\obj\Debug\RAMDI.Properties.Resources.resources
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\obj\Debug\RAMDI.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\obj\Debug\RAMDI.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\obj\Debug\RAMDI.exe
+C:\Users\alexa\source\repos\AED-CPs\Alexa\Clase práctica IX\RAMDI\obj\Debug\RAMDI.pdb

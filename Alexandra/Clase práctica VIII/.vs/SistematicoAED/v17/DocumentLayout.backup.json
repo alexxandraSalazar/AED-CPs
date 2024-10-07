@@ -1,24 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\CP VIII\\CP VIII\\",
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica VIII\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\CP VIIi.csproj|c:\\users\\alexa\\onedrive\\desktop\\cp viii\\cp viii\\sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\CP VIIi.csproj|solutionrelative:sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\CP VIII.csproj|c:\\users\\alexa\\source\\repos\\aed-cps\\alexandra\\clase pr\u00E1ctica viii\\sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\CP VIII.csproj|solutionrelative:sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\SistematicoAED.csproj|c:\\users\\alexa\\onedrive\\desktop\\cp viii\\cp viii\\sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\SistematicoAED.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica VIII\\sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\SistematicoAED.csproj|solutionrelative:sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CP VIII||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\SistematicoAED.csproj|C:\\Users\\alexa\\OneDrive\\Desktop\\CP VIII\\CP VIII\\sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\SistematicoAED.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica VIII\\sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\SistematicoAED.csproj|solutionrelative:sistematicoaed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF437F16-F023-4558-A8D3-45A15CA0F9A0}|SistematicoAED\\CP VIIi.csproj|c:\\users\\alexa\\onedrive\\desktop\\cp viii\\cp viii\\sistematicoaed\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,22 +55,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CP VIII",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Desktop\\CP VIII\\CP VIII\\SistematicoAED\\CP VIII.csproj",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica VIII\\SistematicoAED\\CP VIII.csproj",
               "RelativeDocumentMoniker": "SistematicoAED\\CP VIII.csproj",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Desktop\\CP VIII\\CP VIII\\SistematicoAED\\CP VIII.csproj",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica VIII\\SistematicoAED\\CP VIII.csproj",
               "RelativeToolTip": "SistematicoAED\\CP VIII.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-06T20:08:11.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T20:08:11.502Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Desktop\\CP VIII\\CP VIII\\SistematicoAED\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica VIII\\SistematicoAED\\Form1.cs",
               "RelativeDocumentMoniker": "SistematicoAED\\Form1.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Desktop\\CP VIII\\CP VIII\\SistematicoAED\\Form1.cs [Design]*",
-              "RelativeToolTip": "SistematicoAED\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica VIII\\SistematicoAED\\Form1.cs [Design]",
+              "RelativeToolTip": "SistematicoAED\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T20:05:38.353Z",
               "EditorCaption": " [Design]"
@@ -82,23 +78,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Desktop\\CP VIII\\CP VIII\\SistematicoAED\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica VIII\\SistematicoAED\\Form1.cs",
               "RelativeDocumentMoniker": "SistematicoAED\\Form1.cs",
               "ToolTip": "C:\\Users\\alexa\\OneDrive\\Desktop\\CP VIII\\CP VIII\\SistematicoAED\\Form1.cs*",
-              "RelativeToolTip": "SistematicoAED\\Form1.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\OneDrive\\Desktop\\CP VIII\\CP VIII\\SistematicoAED\\Form1.cs*",
               "ViewState": "AgIAAFMAAAAAAAAAAAASwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T01:07:23.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T01:07:23.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Desktop\\CP VIII\\CP VIII\\SistematicoAED\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica VIII\\SistematicoAED\\Form1.cs",
               "RelativeDocumentMoniker": "SistematicoAED\\Form1.cs",
               "ToolTip": "C:\\Users\\DELL 5590\\Documents\\AED\\SistematicoAED\\SistematicoAED\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\DELL 5590\\Documents\\AED\\SistematicoAED\\SistematicoAED\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DELL 5590\\Documents\\AED\\SistematicoAED\\SistematicoAED\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T00:53:40.473Z"
             }
