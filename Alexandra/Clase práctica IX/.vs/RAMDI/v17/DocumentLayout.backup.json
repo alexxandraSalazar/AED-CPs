@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\RAMDI\\",
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\aed-cps\\alexandra\\clase pr\u00E1ctica ix\\ramdi\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\ramdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\ramdi\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\ramdi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\frmservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\ramdi\\frmservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\frmservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\frmservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\ramdi\\frmservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\frmservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\ramdi\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\ramdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\declaraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\ramdi\\declaraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\declaraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|c:\\users\\alexa\\source\\repos\\ramdi\\ramdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\ramdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD548B0-3014-40B6-93CA-A37E21762CF6}|RAMDI\\RAMDI.csproj|solutionrelative:ramdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -56,15 +56,14 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "frmServicios.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\frmServicios.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\frmServicios.cs",
               "RelativeDocumentMoniker": "RAMDI\\frmServicios.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\frmServicios.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\frmServicios.cs",
               "RelativeToolTip": "RAMDI\\frmServicios.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAIAzwBYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T23:57:51.29Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -94,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmPago.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\frmPago.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\frmPago.cs",
               "RelativeDocumentMoniker": "RAMDI\\frmPago.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\frmPago.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\frmPago.cs",
               "RelativeToolTip": "RAMDI\\frmPago.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAASwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,102 +106,94 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "frmServicios.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\frmServicios.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\frmServicios.cs",
               "RelativeDocumentMoniker": "RAMDI\\frmServicios.cs",
               "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\frmServicios.cs [Design]",
-              "RelativeToolTip": "RAMDI\\frmServicios.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\RAMDI\\RAMDI\\frmServicios.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T23:52:47.279Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-06T23:52:47.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Form1.cs",
               "RelativeDocumentMoniker": "RAMDI\\Form1.cs",
               "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Form1.cs [Design]",
-              "RelativeToolTip": "RAMDI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\RAMDI\\RAMDI\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T23:31:55.143Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-06T23:31:55.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Declaraciones.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Declaraciones.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Declaraciones.cs",
               "RelativeDocumentMoniker": "RAMDI\\Declaraciones.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Declaraciones.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Declaraciones.cs",
               "RelativeToolTip": "RAMDI\\Declaraciones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T23:49:19.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T23:49:19.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Form1.cs",
               "RelativeDocumentMoniker": "RAMDI\\Form1.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Form1.cs",
               "RelativeToolTip": "RAMDI\\Form1.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAASwBcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T00:11:08.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T00:11:08.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Servicio.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Servicio.cs",
               "RelativeDocumentMoniker": "RAMDI\\Servicio.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Servicio.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Servicio.cs",
               "RelativeToolTip": "RAMDI\\Servicio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T23:45:11.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T23:45:11.362Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "RAMDI\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Form1.Designer.cs",
               "RelativeToolTip": "RAMDI\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T00:10:05.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T00:10:05.577Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "frmPago.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\frmPago.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\frmPago.cs",
               "RelativeDocumentMoniker": "RAMDI\\frmPago.cs",
               "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\frmPago.cs [Design]",
-              "RelativeToolTip": "RAMDI\\frmPago.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\RAMDI\\RAMDI\\frmPago.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T23:59:59.174Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-06T23:59:59.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Program.cs",
               "RelativeDocumentMoniker": "RAMDI\\Program.cs",
-              "ToolTip": "C:\\Users\\alexa\\source\\repos\\RAMDI\\RAMDI\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexandra\\Clase pr\u00E1ctica IX\\RAMDI\\Program.cs",
               "RelativeToolTip": "RAMDI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T23:47:14.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T23:47:14.842Z"
             }
           ]
         }
