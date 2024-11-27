@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexa\\clase pr\u00E1ctica XIII\\Sira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08F1E01-066C-4800-8CBE-4EF45741A4BA}|Sira\\CapaPresentacion.csproj|c:\\users\\alexa\\source\\repos\\aed-cps\\alexa\\clase pr\u00E1ctica xiii\\sira\\sira\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F08F1E01-066C-4800-8CBE-4EF45741A4BA}|Sira\\CapaPresentacion.csproj|solutionrelative:sira\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08F1E01-066C-4800-8CBE-4EF45741A4BA}|Sira\\CapaPresentacion.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexa\\clase pr\u00E1ctica XIII\\Sira\\sira\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08F1E01-066C-4800-8CBE-4EF45741A4BA}|Sira\\CapaPresentacion.csproj|solutionrelative:sira\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08F1E01-066C-4800-8CBE-4EF45741A4BA}|Sira\\Sira.csproj|C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexa\\clase pr\u00E1ctica XIII\\Sira\\sira\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08F1E01-066C-4800-8CBE-4EF45741A4BA}|Sira\\Sira.csproj|solutionrelative:sira\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexa\\clase pr\u00E1ctica XIII\\Sira\\Sira\\Form1.cs",
+              "RelativeDocumentMoniker": "Sira\\Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexa\\clase pr\u00E1ctica XIII\\Sira\\Sira\\Form1.cs",
+              "RelativeToolTip": "Sira\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:16:43.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexa\\clase pr\u00E1ctica XIII\\Sira\\Sira\\Form1.cs",
+              "RelativeDocumentMoniker": "Sira\\Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexa\\clase pr\u00E1ctica XIII\\Sira\\Sira\\Form1.cs [Design]",
+              "RelativeToolTip": "Sira\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:20:02.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexa\\clase pr\u00E1ctica XIII\\Sira\\Sira\\Form1.cs",
+              "RelativeDocumentMoniker": "Sira\\Form1.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\AED-CPs\\Alexa\\clase pr\u00E1ctica XIII\\Sira\\Sira\\Form1.cs",
+              "RelativeToolTip": "Sira\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:39:29.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
